@@ -71,7 +71,7 @@ export default function App() {
                 className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-gradient-to-r from-purple-500/20 to-pink-500/20 border border-purple-500/30 backdrop-blur-sm mb-8"
               >
                 <Sparkles className="w-4 h-4 text-purple-300" />
-                <span className="text-sm text-purple-200">Interested Only</span>
+                <span className="text-sm text-purple-200">Tahmid Explains</span>
               </motion.div>
 
               {/* Main heading */}
