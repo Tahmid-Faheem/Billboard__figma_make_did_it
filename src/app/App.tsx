@@ -93,8 +93,7 @@ export default function App() {
                 transition={{ delay: 0.5, duration: 0.8 }}
                 className="text-lg md:text-xl lg:text-2xl text-slate-300 mb-12 max-w-3xl leading-relaxed"
               >
-                Collective learning makes nation truely unbeatable. Anybody who is struggling with any topic in CS
-                right now, "Click the button", Reach me. I shall do everything you need as a gift to make it easy to you.
+                Collective learning makes a nation truly unbeatable. Struggling with any CS topic right now? Hit the button — I'll break it down for you, completely free.
               </motion.p>
 
               {/* CTA Button */}
