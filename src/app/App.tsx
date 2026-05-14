@@ -71,7 +71,7 @@ export default function App() {
                 className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-gradient-to-r from-purple-500/20 to-pink-500/20 border border-purple-500/30 backdrop-blur-sm mb-8"
               >
                 <Sparkles className="w-4 h-4 text-purple-300" />
-                <span className="text-sm text-purple-200">Premium Experience</span>
+                <span className="text-sm text-purple-200">Interested Only</span>
               </motion.div>
 
               {/* Main heading */}
@@ -81,9 +81,9 @@ export default function App() {
                 transition={{ delay: 0.3, duration: 0.8 }}
                 className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 bg-gradient-to-br from-white via-purple-100 to-purple-300 bg-clip-text text-transparent leading-tight"
               >
-                Your Message
+                Complex CS topic!
                 <br />
-                Shines Here
+                I shall explain it.
               </motion.h1>
 
               {/* Subheading */}
@@ -93,8 +93,8 @@ export default function App() {
                 transition={{ delay: 0.5, duration: 0.8 }}
                 className="text-lg md:text-xl lg:text-2xl text-slate-300 mb-12 max-w-3xl leading-relaxed"
               >
-                Elevate your announcements with a stunning visual experience
-                that captivates and inspires. Modern design meets powerful messaging.
+                Collective learning makes nation truely unbeatable. Anybody who is struggling with any topic in CS
+                right now, "Click the button", Reach me. I shall do everything you need as a gift to make it easy to you.
               </motion.p>
 
               {/* CTA Button */}
