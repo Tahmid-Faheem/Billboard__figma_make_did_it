@@ -98,6 +98,7 @@ export default function App() {
               </motion.p>
 
               {/* CTA Button */}
+              <a href="https://forms.gle/rEP7scV8Zy5BW68cA" target="_blank" rel="noopener noreferrer">
               <motion.button
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
@@ -117,6 +118,7 @@ export default function App() {
                   </motion.span>
                 </span>
               </motion.button>
+              </a>
             </div>
 
             {/* Decorative elements */}
