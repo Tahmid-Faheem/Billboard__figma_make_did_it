@@ -108,7 +108,7 @@ export default function App() {
               >
                 <div className="absolute inset-0 bg-gradient-to-r from-purple-500 to-pink-500 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
                 <span className="relative z-10 text-white font-semibold text-lg flex items-center gap-2">
-                  Get Started
+                  Click to Reach me
                   <motion.span
                     animate={{ x: [0, 5, 0] }}
                     transition={{ duration: 1.5, repeat: Infinity }}
